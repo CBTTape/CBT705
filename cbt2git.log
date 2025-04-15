@@ -1,13 +1,13 @@
-2025-04-15 04:53:23.922586 - Received CBT.V508.FILE705.PDS from FILE705.XMI 
-2025-04-15 04:53:23.924014 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:53:23.924327 - Found @CBT001.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/@CBT001
-2025-04-15 04:53:23.924655 - Found @DOC.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/@DOC
-2025-04-15 04:53:23.924980 - Found @FILE705.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/@FILE705
-2025-04-15 04:53:23.925287 - Found CACHE.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/CACHE
-2025-04-15 04:53:23.926094 - Found CONFIG.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/CONFIG
-2025-04-15 04:53:23.926419 - Found FLEXJ01.jcl (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/FLEXJ01
-2025-04-15 04:53:23.927844 - Found REPORT.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/REPORT
-2025-04-15 04:53:23.928174 - Found RESET.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/RESET
-2025-04-15 04:53:23.928464 - Found STORAGE.rexx (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/STORAGE
-2025-04-15 04:53:23.928783 - Found SYSDA.rexx (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/SYSDA
-2025-04-15 04:53:23.929142 - Found TIMER.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/TIMER
+2025-04-15 23:33:50.057656 - Received CBT.V508.FILE705.PDS from FILE705.XMI 
+2025-04-15 23:33:50.058889 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:33:50.059411 - Found @CBT001.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/@CBT001
+2025-04-15 23:33:50.059748 - Found @DOC.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/@DOC
+2025-04-15 23:33:50.059808 - Found @FILE705.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/@FILE705
+2025-04-15 23:33:50.059975 - Found CACHE.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/CACHE
+2025-04-15 23:33:50.060356 - Found CONFIG.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/CONFIG
+2025-04-15 23:33:50.060537 - Found FLEXJ01.jcl (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/FLEXJ01
+2025-04-15 23:33:50.061940 - Found REPORT.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/REPORT
+2025-04-15 23:33:50.062270 - Found RESET.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/RESET
+2025-04-15 23:33:50.062584 - Found STORAGE.rexx (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/STORAGE
+2025-04-15 23:33:50.062912 - Found SYSDA.rexx (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/SYSDA
+2025-04-15 23:33:50.063266 - Found TIMER.txt (text/plain) in CBT.V508.FILE705.PDS, moved to PDS/TIMER
